@@ -1,0 +1,7 @@
+{
+    "name": "Wrapped BNB",
+    "symbol": "WBNB",
+    "type": "ERC20",
+    "decimals": 18,
+    "id": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb"
+}
